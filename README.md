@@ -1,4 +1,4 @@
 # Sign-up web page
 My first sign up form 
-clink this link to view -> puneeth1307.github.io/sign-up/
+clink this link to view -> https://github.com/PUNEETH1307
 
